@@ -1,7 +1,7 @@
 ![logo](https://github.com/Tajamal0099/Tajamal0099/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Tajamal Hussain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajamal0099" alt="tajamal0099" /></a> </p>
 
 - 🔭 I’m currently working on [Car Rental System](https://rent-zone.netlify.app/)
