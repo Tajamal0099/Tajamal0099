@@ -1,5 +1,5 @@
 ![logo]
-()
+(https://github.com/Tajamal0099/Tajamal0099/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Tajamal Hussain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
